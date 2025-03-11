@@ -1,4 +1,4 @@
-### Network Security Projects For Phising Data
+### Network Security Project For Phising Data
 
 Setup github secrets:
 AWS_ACCESS_KEY_ID=
@@ -12,7 +12,8 @@ ECR_REPOSITORY_NAME = networkssecurity
 
 
 Docker Setup In EC2 commands to be Executed
-#optinal
+
+#optional
 
 sudo apt-get update -y
 

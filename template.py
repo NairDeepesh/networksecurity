@@ -14,7 +14,7 @@ list_of_files=[
     "networksecurity/pipeline/__init__.py",
     "networksecurity/entity/__init__.py",
     "networksecurity/entity/config_entity.py",
-    "networksecurity/constants/__init__.py",
+    "networksecurity/constant/__init__.py",
     "networksecurity/logging/__init__.py",
     "networksecurity/logging/logging.py",
     "networksecurity/exception/__init__.py",
